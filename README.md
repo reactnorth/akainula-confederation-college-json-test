@@ -18,4 +18,6 @@ On GitHub, the project is served via GitHub's Pages staging environment. The liv
 
 Approximate time spent: 2 hours
 
+This project was created using pure Javascript, JSON, HTML, and CSS.
+
 The design choices that were made in this project were intended to represent Confederation College's current brand & web UI.
