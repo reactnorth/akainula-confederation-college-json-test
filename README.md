@@ -12,6 +12,8 @@ Run locally:
 
 This deployment method uses a local Python server to create a staging environment that serves the project files.
 
-On GitHub, the project is served via GitHub's Pages staging environment. The live URL can be seen here: 
+On GitHub, the project is served via GitHub's Pages staging environment. The live URL can be seen here: https://reactnorth.github.io/akainula-confederation-college-json-test/
 
-Deployment method and URL ■ Approximate time spent ■ Any tradeoffs or design choices 
+Approximate time spent: 2 hours
+
+The design choices that were made in this project were intended to represent Confederation College's current brand & web UI.
