@@ -1,2 +1,17 @@
 # akainula-confederation-college-json-test
 This is a one-page static site that displays Confederation College program information by rendering JSON data with JavaScript in a single HTML document.
+
+Run locally:
+
+1. In order to run locally, download the .zip file containing the project at: https://github.com/reactnorth/akainula-confederation-college-json-test.git
+2. Make sure you have the latest version of Python installed on your Windows PC: https://www.python.org/downloads/
+3. After installing Python, unzip the project folder: "akainula-confederation-college-json-test-main.zip"
+4. Right click the unzipped folder and click "Open in Terminal"
+5. Copy and paste the following command: py -m http.server 8000
+6. Then, copy and paste the following URL in your browser: http://localhost:8000/index.html
+
+This deployment method uses a local Python server to create a staging environment that serves the project files.
+
+On GitHub, the project is served via GitHub's Pages staging environment. The live URL can be seen here: 
+
+Deployment method and URL ■ Approximate time spent ■ Any tradeoffs or design choices 
